@@ -1,17 +1,17 @@
 [
   {
-    "title": "Project A",
+    "title": "KamNikRestaurant",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a restaurant app using the MERN stack: React, Node.js, MongoDB, and Express",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://kamnikrestaurant.netlify.app/",
+    "source": "https://github.com/KamNik0044/KamNikRestaurant"
   },
   {
-    "title": "Project B",
+    "title": "KamChat",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "A responsive chat app with full functionality, covering login, registration, and chat features.",
+    "skills": ["React", "Firebase", "Google Cloud", "Sass"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
