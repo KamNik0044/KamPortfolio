@@ -12,15 +12,15 @@
     "imageSrc": "projects/project.png",
     "description": "A responsive chat app with full functionality, covering login, registration, and chat features.",
     "skills": ["React", "Firebase", "Google Cloud", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://kamchat.netlify.app/login",
+    "source": "https://github.com/KamNik0044/ChatApp"
   },
   {
-    "title": "Project C",
+    "title": "Jobs on the board",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a job board and job search website for the CYF employability team and graduates.",
+    "skills": ["React", "Express", "Node", "PostgreSQL"],
+    "demo": "https://starter-kit-nqe2.onrender.com",
+    "source": "https://github.com/EABarton123/NW5-group-3-Road-to-Tech"
   }
 ]
