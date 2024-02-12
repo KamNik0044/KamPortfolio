@@ -12,7 +12,7 @@
     "imageSrc": "projects/project.png",
     "description": "A responsive chat app with full functionality, covering login, registration, and chat features.",
     "skills": ["React", "Firebase", "Google Cloud", "Sass"],
-    "demo": "https://kamchat.netlify.app/login",
+    "demo": "https://chat-app-drab-omega-68.vercel.app/login",
     "source": "https://github.com/KamNik0044/ChatApp"
   },
   {
